@@ -1,7 +1,7 @@
 {
   "name": "react-perspective-cropper-rk",
   "homepage": ".",
-  "version": "0.2.3",
+  "version": "0.2.5",
   "description": "React component performing crop, border detection, perspective correction and simple image filters over a provided image 📲 📸",
   "author": "giacomocerquone",
   "license": "MIT",
@@ -58,7 +58,7 @@
     "dist"
   ],
   "dependencies": {
-    "opencv-react-rk": "0.0.6",
+    "opencv-react-rk": "0.0.7",
     "prop-types": "^15.7.2",
     "react-draggable": "^4.4.3"
   }

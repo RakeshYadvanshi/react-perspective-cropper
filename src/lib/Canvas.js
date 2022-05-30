@@ -6,7 +6,7 @@ import React, {
   useState,
   Fragment
 } from 'react'
-import { useOpenCv } from 'opencv-react'
+import { useOpenCv } from 'opencv-react-rk'
 import T from 'prop-types'
 
 import { calcDims, readFile } from '../lib/utils'
